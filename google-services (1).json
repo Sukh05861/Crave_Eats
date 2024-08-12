@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228884985298",
+    "firebase_url": "https://crave-eats-fc77b-default-rtdb.firebaseio.com",
+    "project_id": "crave-eats-fc77b",
+    "storage_bucket": "crave-eats-fc77b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228884985298:android:78240ac5e3233d26a3840b",
+        "android_client_info": {
+          "package_name": "com.example.craveeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228884985298-9cn2it3sub45i856je6p6uipa8cptku4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.craveeats",
+            "certificate_hash": "5384d83234ea66f96c2583a10608832dd98d0968"
+          }
+        },
+        {
+          "client_id": "228884985298-gl9fs3q51flcu9lbh3b2gevht4bm9h1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2C4NkNRglmZhuKut0kucYarjB6jQ1L0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228884985298-gl9fs3q51flcu9lbh3b2gevht4bm9h1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

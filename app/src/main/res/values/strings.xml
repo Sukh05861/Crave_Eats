@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crave Eats</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">228884985298-gl9fs3q51flcu9lbh3b2gevht4bm9h1h.apps.googleusercontent.com</string>
+</resources>
